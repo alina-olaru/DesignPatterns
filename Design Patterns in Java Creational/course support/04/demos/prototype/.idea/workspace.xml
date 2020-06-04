@@ -2,12 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="10dd9119-b836-407f-9591-869541f1952b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../../../My own implementations and examples/PrototypeMethod/src/com/company/ItemRegistry.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../My own implementations and examples/PrototypeMethod/src/com/company/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../My own implementations and examples/PrototypeMethod/src/com/company/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../My own implementations and examples/PrototypeMethod/src/com/company/Cookies.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../My own implementations and examples/PrototypeMethod/src/com/company/Cookies.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../My own implementations and examples/PrototypeMethod/src/com/company/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../My own implementations and examples/PrototypeMethod/src/com/company/Item.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../My own implementations and examples/PrototypeMethod/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../My own implementations and examples/PrototypeMethod/src/com/company/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../My own implementations and examples/PrototypeMethod/src/com/company/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../My own implementations and examples/PrototypeMethod/src/com/company/Movie.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +40,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1591262879694</updated>
-      <workItem from="1591262880867" duration="925000" />
+      <workItem from="1591262880867" duration="1393000" />
     </task>
     <servers />
   </component>
