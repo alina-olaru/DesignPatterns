@@ -10,4 +10,13 @@ public class Movie extends Item {
     public void setDuration(String duration) {
         this.duration = duration;
     }
+
+    @Override
+    public String toString() {
+        super.toString();
+        Item.class.toString();
+        return "Movie{" +
+                "duration='" + duration + '\'' +    super.toString() +
+                '}';
+    }
 }

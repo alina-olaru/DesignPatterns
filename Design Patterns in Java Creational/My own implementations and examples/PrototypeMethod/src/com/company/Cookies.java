@@ -10,4 +10,11 @@ public class Cookies extends Item {
     public void setWeight(Double weight) {
         this.weight = weight;
     }
+
+    @Override
+    public String toString() {
+        return "Cookies{" +
+                "weight=" + weight +
+                '}';
+    }
 }

@@ -34,4 +34,13 @@ public abstract class Item implements Cloneable {
     public void setStoc(Integer stoc) {
         this.stoc = stoc;
     }
+
+    @Override
+    public String toString() {
+        return "Item{" +
+                "itemTtitle='" + itemTtitle + '\'' +
+                ", price=" + price +
+                ", stoc=" + stoc +
+                '}';
+    }
 }
