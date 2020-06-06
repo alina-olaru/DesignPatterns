@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="21f17461-d462-4c80-ba50-046b8c9ba91c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../Design Patterns in Java Creational/My own implementations and examples/ChainOfResponsibilityDesignPattern/ChainOfResponsibilityDesignPattern.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Design Patterns in Java Creational/My own implementations and examples/ChainOfResponsibilityDesignPattern/src/com/company/Asistenta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Design Patterns in Java Creational/My own implementations and examples/ChainOfResponsibilityDesignPattern/src/com/company/Handler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Design Patterns in Java Creational/My own implementations and examples/ChainOfResponsibilityDesignPattern/src/com/company/Medic_general.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Design Patterns in Java Creational/My own implementations and examples/ChainOfResponsibilityDesignPattern/src/com/company/Medic_sef_sectie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Design Patterns in Java Creational/My own implementations and examples/ChainOfResponsibilityDesignPattern/src/com/company/Medic_specialist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Design Patterns in Java Creational/My own implementations and examples/ChainOfResponsibilityDesignPattern/src/com/company/Request.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Design Patterns in Java Creational/My own implementations and examples/ChainOfResponsibilityDesignPattern/src/com/company/RequestType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Design Patterns in Java Creational/My own implementations and examples/ChainOfResponsibilityDesignPattern/src/com/company/Rezident.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1cwrFcFnTqLb2NI01rz3gp3G8Wo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="21f17461-d462-4c80-ba50-046b8c9ba91c" name="Default Changelist" comment="" />
+      <created>1591450393914</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591450393914</updated>
+      <workItem from="1591450397324" duration="776000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="823" y="148" key="new project wizard" timestamp="1591450420096">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="823" y="148" key="new project wizard/-1920.213.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1591450420096" />
+  </component>
+</project>
